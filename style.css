@@ -34,34 +34,3 @@ h1 {color:grey;
 footer {padding: 0px 10px;
 	padding-top:10px;
 }
-/*
-
-https://github.com/Gibsonodoka/github-final-project/blob/main/LICENSE
-
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-
-   https://github.com/Gibsonodoka/github-final-project/blob/main/README.md
-
-   https://github.com/Gibsonodoka/github-final-project/blob/main/CODE_OF_CONDUCT.md
-
-   https://github.com/Gibsonodoka/github-final-project/blob/main/CONTRIBUTING.md
-   https://github.com/Gibsonodoka/github-final-project/blob/main/simple-interest.sh
-   https://github.com/Gibsonodoka/github-final-project
-
-   https://github.com/Gibsonodoka/jbbmo-Introduction-to-Git-and-GitHub
-
-   https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/5370
-
-   https://github.com/Gibsonodoka/jbbmo-Introduction-to-Git-and-GitHub
-
-   https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/5373 
-    fixed bug
-	
-*/
