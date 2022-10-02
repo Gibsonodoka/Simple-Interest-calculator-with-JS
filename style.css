@@ -1,0 +1,67 @@
+body {background-color:black;
+	color:white;
+	font:arial;
+}
+
+h1 {color:grey;
+	font:verdana;
+	padding: 0px 10px;
+}
+
+.maindiv { background-color:white;
+	color:black;
+	width:400px;
+	padding:20px;
+	border-radius:25px;
+	margin:auto;
+	line-height:normal;
+}
+
+#mainform { margin:auto; 
+	line-height:30px;
+	display:table;
+}
+
+#mainform p { display: table-row; 
+}
+
+#mainform label { display:table-cell
+}
+
+.result { display:none;
+}
+
+footer {padding: 0px 10px;
+	padding-top:10px;
+}
+/*
+
+https://github.com/Gibsonodoka/github-final-project/blob/main/LICENSE
+
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
+   https://github.com/Gibsonodoka/github-final-project/blob/main/README.md
+
+   https://github.com/Gibsonodoka/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+   https://github.com/Gibsonodoka/github-final-project/blob/main/CONTRIBUTING.md
+   https://github.com/Gibsonodoka/github-final-project/blob/main/simple-interest.sh
+   https://github.com/Gibsonodoka/github-final-project
+
+   https://github.com/Gibsonodoka/jbbmo-Introduction-to-Git-and-GitHub
+
+   https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/5370
+
+   https://github.com/Gibsonodoka/jbbmo-Introduction-to-Git-and-GitHub
+
+   https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/5373 
+    fixed bug
+	
+*/
