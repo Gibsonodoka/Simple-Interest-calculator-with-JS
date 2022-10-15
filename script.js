@@ -18,7 +18,7 @@ function compute() {
 
 	var today = new Date();
 	var yearOfWithdrawal = parseInt(today.getFullYear())+parseInt(years);
-
+// get all Parameters
 	document.getElementById("depositmessage").innerHTML = ""+principal;
 	document.getElementById("interestmessage").innerHTML = ""+rate;
 	document.getElementById("amountmessage").innerHTML = ""+interest;
