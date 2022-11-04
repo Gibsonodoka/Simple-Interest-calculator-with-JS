@@ -2,4 +2,4 @@
 A simple interest calculator using JavaScript
 ## Mathematical operations with JS
 
-## Created by Gibson
+## Created by Gibson Uwhetu 
