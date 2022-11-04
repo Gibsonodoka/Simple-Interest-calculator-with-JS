@@ -24,7 +24,7 @@ function compute() {
 	document.getElementById("amountmessage").innerHTML = ""+interest;
 	document.getElementById("yearmessage").innerHTML = ""+yearOfWithdrawal;
 	showMessage();
-
+// return false
 	return false;
 };
 
