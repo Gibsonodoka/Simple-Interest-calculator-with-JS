@@ -27,7 +27,7 @@ function compute() {
 // return false
 	return false;
 };
-
+// showRange of values
 function showRange() {
 	var rate = document.getElementById("rate").value;
 	document.getElementById("ratevalue").innerHTML = rate;
