@@ -3,4 +3,4 @@ A simple interest calculator using JavaScript
 ## Mathematical operations with JavaScript 
 ## Coursera JavaScript Projects
 
-## Created by Gibson Uwhetu 
+## Created by Gibson Uwhetu odoka
