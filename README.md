@@ -4,4 +4,4 @@ A simple interest calculator using JavaScript
 ## Coursera JavaScript Projects Intro to JavaScript 
 
 ### Author ✍️ Gibson Uwhetu odoka
-### language :
+### language : JS
